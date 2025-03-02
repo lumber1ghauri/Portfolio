@@ -33,7 +33,7 @@ npm start
 ## 📬 Contact
 If you’d like to connect, feel free to reach out!
 - **Email:** ukashazahid3@gmail.com
-- **GitHub:** [Your GitHub](https://github.com/lumber1ghuari)
+- **GitHub:** [Ukasha Zahid](https://github.com/lumber1ghuari)
 
 ---
 Thank you for visiting my portfolio! 🚀

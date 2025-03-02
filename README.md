@@ -9,7 +9,7 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 - 📞 **Contact:** Easy ways to get in touch with me.
 
 ## 🎨 Inspiration
-This portfolio was inspired by [Project Name](https://github.com/soumyajit4419/Portfolio). I have customized it to better reflect my personal style and professional aspirations.
+This portfolio was inspired by [Portfolio](https://github.com/soumyajit4419/Portfolio). I have customized it to better reflect my personal style and professional aspirations.
 
 ## 🛠️ Technologies Used
 - **Frontend:** React.js, Tailwind CSS

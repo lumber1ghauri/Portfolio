@@ -18,7 +18,7 @@ This portfolio was inspired by [Portfolio](https://github.com/soumyajit4419/Port
 To run the portfolio locally:
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/lumber1ghauri/Portfolio.git
 
 # Navigate to the project folder
 cd your-portfolio
